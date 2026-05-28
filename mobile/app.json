@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ChatApp",
+    "slug": "chatapp-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0084FF"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.chatapp.rn"
+    },
+    "android": {
+      "package": "com.chatapp.rn",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0084FF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

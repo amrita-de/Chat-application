@@ -1,9 +1,8 @@
 import axios from 'axios';
 import { getToken } from '../utils/storage';
 
-// For local testing use your PC's local IP (run ipconfig to find it)
-// For production replace with your Render.com URL
-export const BASE_URL = 'http://192.168.29.83:3000';
+// Replace the URL below with your actual Render.com URL after deploying
+export const BASE_URL = 'https://chat-application-t0rk.onrender.com';
 
 const api = axios.create({ baseURL: `${BASE_URL}/api` });
 

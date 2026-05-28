@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ce0ca3ea-e909-49a7-b902-32757dec4cf5"
+      }
+    },
+    "owner": "amrita2004"
   }
 }

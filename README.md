@@ -2,8 +2,6 @@
 
 A real-time chat application built with **React Native (Expo)**, **Node.js**, **Socket.io**, and **MongoDB Atlas**.
 
-> Built as part of a React Native Developer assignment.
-
 ---
 
 ## 🌐 Live Demo

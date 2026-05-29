@@ -6,9 +6,9 @@ A real-time chat application built with **React Native (Expo)**, **Node.js**, **
 
 ---
 
-## 📱 Screenshots
+## 🌐 Live Demo
 
-> *(Add screenshots here after running the app)*
+> 🚀 **Web App:** [https://chat-app-frontend-72m1.onrender.com](https://chat-app-frontend-72m1.onrender.com)
 
 ---
 

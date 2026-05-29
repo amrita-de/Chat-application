@@ -166,7 +166,7 @@ Scan the QR code with **Expo Go** on your phone.
 
 ## 📹 Screen Recording
 
-> 🎬 **Demo video:** *(Add Loom link here)*
+> 🎬 **Demo video:** [Watch on Loom](https://www.loom.com/share/e869bff493664463ba3b08147401d759)
 
 The recording shows two users logged in simultaneously on separate devices, sending and receiving messages in real time.
 
@@ -174,7 +174,7 @@ The recording shows two users logged in simultaneously on separate devices, send
 
 ## 📦 APK Download
 
-> 📲 **Download APK:** *(Add link here after EAS build)*
+> 📲 **Download APK:** [Download latest build](https://expo.dev/artifacts/eas/s9oJFHeLaPqQ9n56mhCKkb.apk)
 
 Built with EAS Build (Expo). Install directly on any Android device.
 
